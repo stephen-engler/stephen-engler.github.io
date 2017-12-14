@@ -1,0 +1,26 @@
+body {height: 100%;
+  margin: 0;
+  width: 100%;
+  background-image: url("contactinfo.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+ul {
+  list-style-type: none;
+}
+h1 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 2rem;
+  color: white;
+}
+.nav {
+  font-family: "Courier New", Courier, monospace;
+  font-size:  1rem;
+  text-align: right;
+}
+h2  {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 2rem;
+  color: white;
+  text-align: left;
+}
